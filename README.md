@@ -1,21 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Chuma Mqeke</h1>
+<h3 align="center">Hello there! I'm Chuma Mqeke, an enthusiastic software developer eager to embark on my coding journey. Fueled by my passion for programming and the prospect of making a meaningful impact, I'm excited to dive into a junior software role. Whether it's a junior software position or freelance projects, I bring dedication, adaptability, and a hunger for success to every endeavor. Proficient in developing dynamic and responsive websites, creating intuitive user interfaces with Figma, and leveraging React as a robust framework, I'm committed to continuous learning and problem-solving. If you're in search of a motivated team player with fresh ideas and a strong work ethic, let's connect and build something awesome together! ✨ You can reach out to me here on GitHub or connect via LinkedIn (www.linkedin.com/in/chuma-mqeke).</h3>
 
-I'm Chuma Mqeke, an enthusiastic software devolper ready to embark on my journey in the world of coding! I'm thrilled to dive into a junior software role, fueled by my passion for programming and the opportunity to create meaningful change.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chumamqeke&label=Profile%20views&color=0e75b6&style=flat" alt="chumamqeke" /> </p>
 
-Seeking opportunities to grow and learn, I'm open to both junior software positions and freelance projects. I bring dedication, adaptability, and a hunger for success to every project I undertake.
+- 🔭 I’m currently working on [portfolio website](https:/ react-form-bfafe.web.app/)
 
-If you're looking for a motivated team player ready to contribute fresh ideas and hard work, let's connect! Reach out to me here on GitHub or connect via LinkedIn (www.linkedin.com/in/chuma-mqeke). Together, let's build something awesome! ✨
+- 🌱 I’m currently learning **react native and PHP**
 
-Here are few highlights about me:
+- 👨‍💻 some of my projects are available at [https://chuma-mqeke.netlify.app/](https://chuma-mqeke.netlify.app/)
 
--  Proficient in developing dynamic and responsive websites.
--  Creates stunning and intuitive user interfaces using Figma.
--  Expertise in utilizing React as a robust framework for web development.
--  Continuous Learner and Tech Enthusiast passionate Problem Solver
+- 📫 How to reach me **mqekec3@gmail.com**
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/chuma-mqeke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chuma-mqeke" height="30" width="40" /></a>
+<a href="https://discord.gg/Chuma#2775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Chuma#2775" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on my Porfolio website.
-- 🌱 I’m currently learning react native.
-- 👯 I’m looking to collaborate on a Back-End project and Front-end project
-- 📫 How to reach me: mqekec3@gmail.com, 0607616425
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chumamqeke&show_icons=true&locale=en&layout=compact" alt="chumamqeke" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chumamqeke&show_icons=true&locale=en" alt="chumamqeke" /></p>
