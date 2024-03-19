@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Chuma Mqeke</h1>
+<h1 align="center">Hi there👋</h1>
 <h3>I'm Chuma Mqeke</h3><p>An enthusiastic software developer eager to embark on my coding journey. Fueled by my passion for programming and the prospect of making a meaningful impact, I'm excited to dive into a junior software role. Whether it's a junior software position or freelance projects, I bring dedication, adaptability, and a hunger for success to every endeavor.</p>
 <p>Proficient in developing dynamic and responsive websites, creating intuitive user interfaces with Figma, and leveraging React as a robust framework, I'm committed to continuous learning and problem-solving. If you're in search of a motivated team player with fresh ideas and a strong work ethic, let's connect and build something awesome together! ✨ You can reach out to me here on GitHub or connect via LinkedIn (www.linkedin.com/in/chuma-mqeke).</p>
 
