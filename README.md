@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chuma Mqeke</h1>
-<h3 align="center">Hello there! I'm Chuma Mqeke</h3>, <p>An enthusiastic software developer eager to embark on my coding journey. Fueled by my passion for programming and the prospect of making a meaningful impact, I'm excited to dive into a junior software role. Whether it's a junior software position or freelance projects, I bring dedication, adaptability, and a hunger for success to every endeavor.</p>
+<h3>Hello there! I'm Chuma Mqeke</h3>, <p>An enthusiastic software developer eager to embark on my coding journey. Fueled by my passion for programming and the prospect of making a meaningful impact, I'm excited to dive into a junior software role. Whether it's a junior software position or freelance projects, I bring dedication, adaptability, and a hunger for success to every endeavor.</p>
 <p>Proficient in developing dynamic and responsive websites, creating intuitive user interfaces with Figma, and leveraging React as a robust framework, I'm committed to continuous learning and problem-solving. If you're in search of a motivated team player with fresh ideas and a strong work ethic, let's connect and build something awesome together! ✨ You can reach out to me here on GitHub or connect via LinkedIn (www.linkedin.com/in/chuma-mqeke).</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chumamqeke&label=Profile%20views&color=0e75b6&style=flat" alt="chumamqeke" /> </p>
@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **react native and PHP**
 
 - 👨‍💻 some of my projects are available at [https://chuma-mqeke.netlify.app/](https://chuma-mqeke.netlify.app/)
-
+- My repositories:  
 - 📫 How to reach me **mqekec3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
